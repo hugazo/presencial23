@@ -1,24 +1,27 @@
-# README
+# Actividad 023 - Integración de una plantilla
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 12.
 
-Things you may want to cover:
+- Los archivos necesarios para la realización de esta actividad los puedes encontrar [este repositorio de Github.](https://github.com/DesafioLatam/E12CP1A1)
 
-* Ruby version
+## Ejercicio 1:
 
-* System dependencies
+- Descargar la plantilla desde el repositorio de GitHub.
 
-* Configuration
+- Crear un nuevo proyecto en Rails.
 
-* Database creation
+- Inicializar Git.
 
-* Database initialization
+- Implementar la plantilla en el proyecto.
 
-* How to run the test suite
+- Se evaluará:
 
-* Services (job queues, cache servers, search engines, etc.)
+    - Cargado de archivos CSS.
+    
+    - Cargado de archivos JS.
 
-* Deployment instructions
+    - Cargado de imágenes.
+    
+    - Implementación de tipografías.
 
-* ...
+- El proyecto debe ser subido a un repositorio en tu cuenta de GitHub.
